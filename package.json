@@ -1,6 +1,6 @@
 {
   "name": "stock-v2",
-  "version": "0.2.0",
+  "version": "0.3.3",
   "type": "module",
   "description": "Minha primeira api",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
