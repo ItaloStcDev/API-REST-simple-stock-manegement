@@ -14,8 +14,8 @@ const validateUser = (req, res, next) => {
         req.userId = decoded.id;
 
         next();
-    } catch (error) {
-        console.error(error);
+    } catch (err) {
+        console.error(err);
         return res.status(401).send('Token invalid');
     }
 }
