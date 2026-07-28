@@ -72,7 +72,7 @@ Cadastra um novo usuário no sistema.
     "password": "suasenhasegura"
   }
   ```
-  * **Resposta de Sucesso (201 Created):**
+* **Resposta de Sucesso (201 Created):**
 ```json
 {
   "message": "Usuário cadastrado com sucesso!"
