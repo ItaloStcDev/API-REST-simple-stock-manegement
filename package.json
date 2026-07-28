@@ -1,16 +1,16 @@
 {
   "name": "stock-v2",
-  "version": "0.3.5",
+  "version": "0.3.8",
   "type": "module",
   "description": "Minha primeira api",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node --watch app.js"
+    "dev": "node app.js"
   },
   "keywords": [],
   "author": "ItaloStcDev",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cors": "^2.8.6",
