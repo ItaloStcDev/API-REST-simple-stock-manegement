@@ -65,13 +65,13 @@ npm run dev
 #### `POST /register`
 Cadastra um novo usuário no sistema.
 * **Corpo da Requisição (JSON):**
-  ```json
-  {
-    "name": "Nome do Usuário",
-    "email": "usuario@email.com",
-    "password": "suasenhasegura"
-  }
-  ```
+```json
+{
+  "name": "Nome do Usuário",
+  "email": "usuario@email.com",
+  "password": "suasenhasegura"
+}
+```
 * **Resposta de Sucesso (201 Created):**
 ```json
 {
@@ -200,6 +200,6 @@ Exclui um produto específico do banco. O usuário só pode deletar produtos que
 
 ## ✒️ Autor
 
-Desenvolvido por **Ítalo da Silva Santos**  
+Desenvolvido por **Ítalo Santos**  
 * GitHub: [@ItaloStcDev](https://github.com)
-* Linkedin: (www.linkedin.com/in/italostcdev)
+* Linkedin: [ItaloStcDev](www.linkedin.com/in/italostcdev)
