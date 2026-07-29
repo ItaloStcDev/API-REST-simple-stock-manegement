@@ -56,7 +56,7 @@ Inicie o banco de dados de sua preferencia e crie as tabelas necessárias ("user
 
 De volta no terminal, inicie o servidor digitando:
 ```bash
-npm run dev
+npm run start
 ```
 ## 📚 Documentação das Rotas (Endpoints)
 
