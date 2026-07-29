@@ -40,7 +40,7 @@ git clone https://github.com/ItaloStcDev/API-REST-simple-stock-manegement
 
 Ainda no terminal, digite:
 ```bash
-npm install express dotenv cors jsonwebtoken
+npm install
 ```
 (npm deve ser substituido pelo nome do seu gerenciador de pacotes)
 
